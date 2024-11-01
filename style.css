@@ -1,0 +1,35 @@
+.html {
+    width: 1024px;
+    height: 720px;
+}
+
+.Container {
+    border: 3px, solid color #26F;
+    border-radius: 10px;
+    background-color: rgba(63, 201, 232);
+    width: 600px;
+    height: 600px;
+    padding: 10px;
+}
+
+.box {
+    border-radius: 5px;
+    background-color: rgb(228, 243, 71);
+    width: 80%;
+    height: 20%;
+    margin-left: 10%;
+    text-align: center;
+}
+
+h1 {
+    font-size: 1rem;
+    color: #fff;
+}
+
+h2 {
+    color: #118956;
+}
+p {
+    font-size: 0.6em;
+
+}
